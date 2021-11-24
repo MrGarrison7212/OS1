@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="0.1246480671">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.1246480671" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="bcc4Eclipse.ErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildProperties="" description="" id="0.1246480671" name="Default" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.1246480671." name="/" resourcePath="">
+						<toolChain id="bcc4Eclipse.toolChain.609317666" name="bccToolchain" superClass="bcc4Eclipse.toolChain">
+							<targetPlatform binaryParser="org.eclipse.cdt.core.PE" id="bcc4Eclipse.targetPlatform.751497459" isAbstract="false" superClass="bcc4Eclipse.targetPlatform"/>
+							<builder buildPath="${workspace_loc:/ProjekatOS}/BCC" id="bcc4Eclipse.builder.1829995345" keepEnvironmentInBuildfile="false" name="bcc" superClass="bcc4Eclipse.builder"/>
+						</toolChain>
+					</folderInfo>
+					<fileInfo id="0.1246480671.189234193" name="pcb.cpp" rcbsApplicability="disable" resourcePath="src/pcb.cpp" toolsToInvoke=""/>
+					<fileInfo id="0.1246480671.1789358911" name="thread.cpp" rcbsApplicability="disable" resourcePath="src/thread.cpp" toolsToInvoke=""/>
+					<fileInfo id="0.1246480671.734096067" name="main.cpp" rcbsApplicability="disable" resourcePath="src/main.cpp" toolsToInvoke=""/>
+					<fileInfo id="0.1246480671.1085180624" name="pcb.h" rcbsApplicability="disable" resourcePath="h/pcb.h" toolsToInvoke=""/>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="ProjekatOS.null.1210901808" name="ProjekatOS"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.1246480671">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/ProjekatOS"/>
+		</configuration>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+</cproject>
